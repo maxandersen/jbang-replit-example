@@ -1,0 +1,2 @@
+language = "java10"
+run = "jbang/bin/jbang checksum.java"
